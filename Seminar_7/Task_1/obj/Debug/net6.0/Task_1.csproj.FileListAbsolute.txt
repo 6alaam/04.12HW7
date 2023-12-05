@@ -1,0 +1,15 @@
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\obj\Debug\net6.0\Task_1.csproj.AssemblyReference.cache
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\bin\Debug\net6.0\Task_1.exe
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\bin\Debug\net6.0\Task_1.deps.json
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\bin\Debug\net6.0\Task_1.dll
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\bin\Debug\net6.0\Task_1.pdb
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\obj\Debug\net6.0\Task_1.dll
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\obj\Debug\net6.0\refint\Task_1.dll
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\obj\Debug\net6.0\Task_1.pdb
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\Seminar_6\Task_1\obj\Debug\net6.0\ref\Task_1.dll
